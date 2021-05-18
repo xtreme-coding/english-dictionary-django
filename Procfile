@@ -1,0 +1,1 @@
+web gunicorn dict_project.wsgi:application --log-file -
